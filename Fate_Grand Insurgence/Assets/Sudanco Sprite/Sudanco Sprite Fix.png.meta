@@ -1,0 +1,578 @@
+fileFormatVersion: 2
+guid: a84358c4c7c4c2a459f885f67d650ff0
+timeCreated: 1507827741
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Hair2_Unhooded
+    21300002: Hair3
+    21300004: Hair1
+    21300006: Gun
+    21300008: Hair2_Hooded
+    21300010: Eyes_Opened
+    21300012: Eyes_Closed
+    21300014: Head
+    21300016: Sudanco Sprite Fix_9
+    21300018: Torso_Upper
+    21300020: Hood1
+    21300022: Hood2
+    21300024: Right_Thumb
+    21300026: Right_Finger
+    21300028: Sudanco Sprite Fix_15
+    21300030: r_Lower_hand
+    21300032: l_upper_hand
+    21300034: r_Upper_hand
+    21300036: Torso_Lower
+    21300038: suit2
+    21300040: l_lower_hand
+    21300042: r_upper_foot
+    21300044: l_hand
+    21300046: suit1
+    21300048: Sudanco Sprite Fix_29
+    21300050: l_upper_foot
+    21300052: Sudanco Sprite Fix_31
+    21300054: r_lower_foot
+    21300056: r_foot
+    21300058: l_foot
+    21300060: l_lower_foot
+    21300062: Sudanco Sprite Fix_38
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hair2_Unhooded
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 709
+        width: 83
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hair3
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 732
+        width: 80
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hair1
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 744
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gun
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 359
+        width: 46
+        height: 377
+      alignment: 9
+      pivot: {x: 0.59346604, y: 0.3745521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hair2_Hooded
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 671
+        width: 97
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eyes_Opened
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 686
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eyes_Closed
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 670
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Head
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 594
+        width: 50
+        height: 55
+      alignment: 9
+      pivot: {x: 0.7579663, y: 0.21337003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sudanco Sprite Fix_9
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 560
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Torso_Upper
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 476
+        width: 95
+        height: 95
+      alignment: 9
+      pivot: {x: 0.4849137, y: 0.12285574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hood1
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 451
+        width: 97
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5295492, y: 0.23599939}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hood2
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 464
+        width: 88
+        height: 102
+      alignment: 9
+      pivot: {x: 0.4999993, y: 0.19088955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Right_Thumb
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 524
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Right_Finger
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 470
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sudanco Sprite Fix_15
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 492
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: r_Lower_hand
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 411
+        width: 40
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5716564, y: 0.014934833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: l_upper_hand
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 377
+        width: 59
+        height: 79
+      alignment: 9
+      pivot: {x: 0.18422066, y: 0.7721167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: r_Upper_hand
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 347
+        width: 70
+        height: 49
+      alignment: 9
+      pivot: {x: 0.9094707, y: 0.7632309}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Torso_Lower
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 303
+        width: 112
+        height: 146
+      alignment: 9
+      pivot: {x: 0.33365276, y: 0.39202297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: suit2
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 283
+        width: 139
+        height: 144
+      alignment: 9
+      pivot: {x: 0.12882501, y: 0.8881442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: l_lower_hand
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 293
+        width: 85
+        height: 51
+      alignment: 9
+      pivot: {x: 0.78662974, y: 0.83721143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: r_upper_foot
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 140
+        width: 71
+        height: 132
+      alignment: 9
+      pivot: {x: 0.74222165, y: 0.8257155}
+      border: {x: 16, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: l_hand
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 224
+        width: 31
+        height: 40
+      alignment: 9
+      pivot: {x: 1.008537, y: 0.7508007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: suit1
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 12
+        width: 213
+        height: 250
+      alignment: 9
+      pivot: {x: 0.28469118, y: 0.91847914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sudanco Sprite Fix_29
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 259
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: l_upper_foot
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 69
+        width: 64
+        height: 149
+      alignment: 9
+      pivot: {x: 0.3734312, y: 0.8655006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sudanco Sprite Fix_31
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 213
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: r_lower_foot
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 92
+        width: 59
+        height: 101
+      alignment: 9
+      pivot: {x: 0.2328027, y: 0.8405499}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: r_foot
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 22
+        width: 58
+        height: 41
+      alignment: 9
+      pivot: {x: 0.72238475, y: 0.77963966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: l_foot
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 8
+        width: 51
+        height: 39
+      alignment: 9
+      pivot: {x: 0.4999988, y: 0.8674741}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: l_lower_foot
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 33
+        width: 70
+        height: 108
+      alignment: 9
+      pivot: {x: 0.17242344, y: 0.8450168}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sudanco Sprite Fix_38
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 36
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
